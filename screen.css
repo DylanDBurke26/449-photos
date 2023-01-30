@@ -65,6 +65,10 @@ a:hover {
     max-height: 25%;
 }
 
+#link {
+    border: 3px dotted black;
+}
+
 .imageDetail {
     width: 30%;
     height: 30%;
