@@ -27,10 +27,22 @@ a:hover {
     text-decoration: none;
     color: #424242;
     margin-top: 10px;
+    align-content: center;
 }
 
-.top h1 {
-    align-content: flex-start;
+.arr {
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.arr div {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: 3em;
+    text-decoration: none;
+    color: #424242;
 }
 
 .top img {
